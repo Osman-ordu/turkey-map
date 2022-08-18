@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #198754;
+  color: rgb(2, 54, 24);
+  background: linear-gradient(to right, #198754, #e9eef2,#28aa54, #c1cad1);
+  font-family: 'Fira Code', 'monospace';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.header-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0 0;
+}
+.city-p {
+  text-align: center;
+  font-weight: bold;
+  padding-top: 20px;
+  font-size: 3rem;
+}
+
+.komur-png {
+  width: 40px;
+  margin-left:20px ;
+  object-fit: cover;
+}
+
+.mine-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
