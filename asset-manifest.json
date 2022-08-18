@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/turkey-map/static/css/main.bd1f122a.css",
+    "main.js": "/turkey-map/static/js/main.4ec119a2.js",
+    "static/media/iron.png": "/turkey-map/static/media/iron.49559d282061fe02c9c4.png",
+    "static/media/antimony.png": "/turkey-map/static/media/antimony.949d1dd341d5a6dbca2d.png",
+    "static/media/coal.png": "/turkey-map/static/media/coal.baa85a897bd318959e25.png",
+    "index.html": "/turkey-map/index.html",
+    "main.bd1f122a.css.map": "/turkey-map/static/css/main.bd1f122a.css.map",
+    "main.4ec119a2.js.map": "/turkey-map/static/js/main.4ec119a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd1f122a.css",
+    "static/js/main.4ec119a2.js"
+  ]
+}
